@@ -1,0 +1,23 @@
+concept_id,concept_name,concept_code,dx_class
+4309119,Clinical diagnosis,39154008,dx
+4214956,History of clinical finding in subject,417662000,hx
+254761,Cough,49727002,exp
+437663,Fever,386661006,dx
+440029,Viral disease,34014006,dx
+4153516,Patient immunocompromised,370388006,dx
+4160039,Co-morbid conditions,398192003,dx
+435604,"Viral disease in mother complicating pregnancy, childbirth AND/OR puerperium",31516002,comp
+4194404,Disorder confirmed,395098000,dx
+0,No matching concept,No matching concept,dx
+440029,Viral disease,34014006,dx
+4028528,Disorder of toe,128619003,comp
+140214,Eruption,271807003,comp
+4244438,Second trimester pregnancy,59466002,comp
+440029,Viral disease,34014006,dx
+4193169,Viral respiratory infection,312133006,comp
+4006969,Acute respiratory disease,111273006,comp
+312437,Dyspnea,267036007,comp
+198337,Infectious diarrheal disease,19213003,comp
+36712667,Viral fever,1.0151E+13,dx
+440417,Pulmonary embolism,59282003,comp
+257907,Disorder of lung,19829001,dx

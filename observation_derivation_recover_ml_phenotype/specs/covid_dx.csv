@@ -1,0 +1,63 @@
+concept_id,concept_name,concept_code,vocabulary_id,dx_class
+320651,Severe acute respiratory syndrome,398447004,SNOMED,dx
+37016927,Pneumonia caused by Human coronavirus,713084008,SNOMED,comp
+37310254,Otitis media due to disease caused by Severe acute respiratory syndrome coronavirus 2,1240521000000100,SNOMED,comp
+37310260,Close exposure to SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection,1240441000000108,SNOMED,exp
+37310283,Gastroenteritis caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),1240571000000101,SNOMED,comp
+37310284,Encephalopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2,1240561000000108,SNOMED,comp
+37310285,Pneumonia caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),1240551000000105,SNOMED,comp
+37310286,Infection of upper respiratory tract caused by Severe acute respiratory syndrome coronavirus 2,1240541000000107,SNOMED,dx
+37310287,Myocarditis due to disease caused by Severe acute respiratory syndrome coronavirus 2,1240531000000103,SNOMED,comp
+37311059,Exposure to SARS-CoV-2,840546002,SNOMED,exp
+37311061,COVID-19,840539006,SNOMED,dx
+40479642,Pneumonia due to Severe acute respiratory syndrome coronavirus,441590008,SNOMED,comp
+40479782,Exposure to Severe acute respiratory syndrome coronavirus,444482005,SNOMED,exp
+4248811,Healthcare associated severe acute respiratory syndrome,408688009,SNOMED,dx
+439676,Coronavirus infection,186747009,SNOMED,dx
+45765578,Exposure to coronavirus infection,702547000,SNOMED,exp
+756022,Exposure to patient with confirmed COVID-19,OMOP4873948,OMOP Extension,exp
+756023,Acute bronchitis caused by COVID-19,OMOP4873906,OMOP Extension,comp
+756027,Healthcare contact with confirmed COVID-19 case patient,OMOP4873964,OMOP Extension,exp
+756031,Bronchitis caused by COVID-19,OMOP4873909,OMOP Extension,comp
+756035,Healthcare contact of Patient with another confirmed COVID-19 case patient,OMOP4873949,OMOP Extension,exp
+756037,Presence in a laboratory handling suspected or confirmed COVID-19 samples,OMOP4873953,OMOP Extension,exp
+756039,Respiratory infection caused by COVID-19,OMOP4873907,OMOP Extension,dx
+756041,Close contact with confirmed or presumptive/probable COVID-19 case symptomatic patient,OMOP4873957,OMOP Extension,exp
+756044,Acute respiratory distress syndrome (ARDS) caused by COVID-19,OMOP4873911,OMOP Extension,comp
+756045,Household contact with confirmed COVID-19 case patient,OMOP4873954,OMOP Extension,exp
+756047,Healthcare contact of Healthcare worker with confirmed COVID-19 case patient,OMOP4873958,OMOP Extension,exp
+756050,Exposure to patient with Acute respiratory distress syndrome (ARDS) of unknown etiology,OMOP4873947,OMOP Extension,exp
+756061,Asymptomatic COVID-19,OMOP4873910,OMOP Extension,dx
+756062,Community contact with confirmed COVID-19 case patient,OMOP4873951,OMOP Extension,exp
+756064,Suspected exposure (but ruled out after evaluation) to Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),OMOP4873946,OMOP Extension,exp
+756068,Close contact with presumptive/probable (then not confirmed) COVID-19 case patient,OMOP4873950,OMOP Extension,exp
+756069,Close contact with confirmed or presumptive/probable COVID-19 case patient,OMOP4873959,OMOP Extension,exp
+756072,Presence in a healthcare facility where COVID-19 has been managed,OMOP4873956,OMOP Extension,exp
+756075,Exposure to patient with presumptive/probable COVID-19,OMOP4873952,OMOP Extension,exp
+756076,Close contact with presumptive/probable COVID-19 case patient,OMOP4873961,OMOP Extension,exp
+756077,Close contact with confirmed COVID-19 case patient,OMOP4873960,OMOP Extension,exp
+756079,Healthcare contact of Visitor with confirmed COVID-19 case patient,OMOP4873955,OMOP Extension,exp
+756081,Infection of lower respiratory tract caused by COVID-19,OMOP4873908,OMOP Extension,comp
+756082,Exposure to patient with presumptive/probable (then not confirmed) COVID-19,OMOP4873963,OMOP Extension,exp
+756083,Suspected exposure to Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),OMOP4873962,OMOP Extension,exp
+37311060,Suspected COVID-19,840544004,SNOMED,exp
+37311065,SARS-CoV-2,840533007,SNOMED,exp
+704996,Patient meets COVID-19 laboratory diagnostic criteria,OMOP4912978,OMOP Extension,dx
+3661405,Acute bronchitis caused by SARS-CoV-2,138389411000119105,SNOMED,comp
+3661406,Acute respiratory distress syndrome due to disease caused by Severe acute respiratory syndrome coronavirus 2,674814021000119106,SNOMED,comp
+3661408,Pneumonia caused by SARS-CoV-2,882784691000119100,SNOMED,comp
+3662381,Asymptomatic SARS-CoV-2,189486241000119100,SNOMED,dx
+3663281,Lower respiratory infection caused by SARS-CoV-2,880529761000119102,SNOMED,comp
+3655975,Sepsis due to disease caused by Severe acute respiratory syndrome coronavirus 2,870588003,SNOMED,comp
+3655976,Acute hypoxemic respiratory failure due to disease caused by Severe acute respiratory syndrome coronavirus 2,870590002,SNOMED,comp
+3655977,Rhabdomyolysis due to disease caused by Severe acute respiratory syndrome coronavirus 2,870591003,SNOMED,comp
+3656667,Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2,119731000146105,SNOMED,comp
+3656668,Conjunctivitis due to disease caused by Severe acute respiratory syndrome coronavirus 2,119741000146102,SNOMED,comp
+3656669,Dyspnea caused by Severe acute respiratory syndrome coronavirus 2,119981000146107,SNOMED,comp
+3661632,Thrombocytopenia due to Severe acute respiratory syndrome coronavirus 2,866152006,SNOMED,comp
+3661748,Acute kidney injury due to disease caused by Severe acute respiratory syndrome coronavirus 2,870589006,SNOMED,comp
+3661885,Fever caused by Severe acute respiratory syndrome coronavirus 2,119751000146104,SNOMED,dx
+3661980,History of SARS-CoV-2,292508471000119105,SNOMED,hx
+3655973,At increased risk of exposure to Severe acute respiratory syndrome coronavirus 2,870577009,SNOMED,exp
+37310282,Severe acute respiratory syndrome coronavirus 2 detected,1240581000000104,SNOMED,dx
+3655973,At increased risk of exposure to Severe acute respiratory syndrome coronavirus 2,870577009,SNOMED,exp

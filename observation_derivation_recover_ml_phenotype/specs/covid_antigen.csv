@@ -1,0 +1,18 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id
+586516,94763-0,SARS-CoV-2 (COVID-19) [Presence] in Specimen by Organism specific culture,LOINC
+704058,U0004,"2019-nCoV Coronavirus, SARS-CoV-2/2019-nCoV (COVID-19), any technique, multiple types or subtypes (includes all targets), non-CDC, making use of high throughput technologies as described by CMS-2020-01-R",HCPCS
+704976,OMOP5040512,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Sample from oropharynx,OMOP Extension
+704992,OMOP4912974,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using Culture method,OMOP Extension
+705107,OMOP4912993,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Sample from nose,OMOP Extension
+723477,94558-4,SARS-CoV-2 (COVID-19) Ag [Presence] in Respiratory specimen by Rapid immunoassay,LOINC
+742224,87426,"Infectious agent antigen detection by immunoassay technique, qualitative or semiquantitative, multiple-step method; severe acute respiratory syndrome coronavirus (eg, SARS-CoV, SARS-CoV-2 [COVID-19]) (Coronavirus disease [COVID-19])",CPT4
+756029,OMOP4873967,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Respiratory specimen,OMOP Extension
+756055,OMOP4873969,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),OMOP Extension
+756065,OMOP4873966,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Unspecified specimen,OMOP Extension
+757685,95209-3,SARS-CoV+SARS-CoV-2 (COVID-19) Ag [Presence] in Respiratory specimen by Rapid immunoassay,LOINC
+36031949,95942-9,Influenza virus A and B and SARS-CoV+SARS-CoV-2 (COVID-19) Ag panel - Upper respiratory specimen by Rapid immunoassay,LOINC
+36032419,96119-3,SARS-CoV-2 (COVID-19) Ag [Presence] in Upper respiratory specimen by Immunoassay,LOINC
+36033641,97097-0,SARS-CoV-2 (COVID-19) Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,LOINC
+36033643,97099-6,Influenza virus A and B and SARS-CoV-2 (COVID-19) Ag panel - Upper respiratory specimen by Rapid immunoassay,LOINC
+37310257,1.24047E+15,Measurement of Severe acute respiratory syndrome coronavirus 2 antigen,SNOMED
+40218804,U0002,"2019-ncov coronavirus, sars-cov-2/2019-ncov (covid-19), any technique, multiple types or subtypes (includes all targets), non-cdc",HCPCS

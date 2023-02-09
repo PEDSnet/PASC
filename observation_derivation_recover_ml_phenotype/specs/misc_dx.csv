@@ -1,0 +1,5 @@
+"concept_id","concept_name","concept_code","vocabulary_id"
+703578,"Multisystem inflammatory syndrome (MIS)","OMOP5042964","OMOP Extension"
+713856,"Multisystem inflammatory syndrome (MIS)","M35.81","ICD10CM"
+931072,"Multisystem inflammatory syndrome associated with COVID-19","U10","ICD10"
+931073,"Multisystem inflammatory syndrome associated with COVID-19, unspecified","U10.9","ICD10"
